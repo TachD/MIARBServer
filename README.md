@@ -77,9 +77,10 @@
 ---
 На данный момент (28.07.2017) проект находится в стадии Альфа-тестировании.
 
-Authors
+Авторы
 ---
 * Alexander Govor - Development to the Alpha version - [TachD](https://github.com/TachD)
-License
+
+Лицензия
 ---
 Для получения данных о лицензии ознакомтесь с LICENSE.md.
