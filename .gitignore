@@ -1,5 +1,14 @@
 *.class
 
+# intelliJ IDEA settings
+.idea
+
+/target
+
+# Application configuration files
+/src/main/resources/activeKey.key
+/src/main/resources/DBSetting.cfg
+
 # BlueJ files
 *.ctxt
 
